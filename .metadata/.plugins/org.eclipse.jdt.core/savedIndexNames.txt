@@ -1,0 +1,2 @@
+INDEX VERSION 1.130+C:\Users\Michael\Documents\ETHZ-Unterlagen\Master\ABMT\Java Course\Assignment 1\assignment1-michiganzmann-master\.metadata\.plugins\org.eclipse.jdt.core
+1067094681.index

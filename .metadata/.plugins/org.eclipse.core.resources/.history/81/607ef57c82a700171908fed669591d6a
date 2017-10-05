@@ -1,0 +1,26 @@
+package ch.ethz.ivt.abmt.assignment1.ex1network;
+
+/**
+ * @author thibautd
+ */
+public class LinkImpl {
+	
+	private final int id;
+	private final double lenght;
+	
+	public LinkImpl( int id, double lenght ) {
+		
+		this.id = id;
+		this.lenght = lenght;
+		
+	}
+	
+	public void setEndNote( Node endNote ) {
+		
+	}
+	
+	public void setStartNote( Node startNode ) {
+		
+	}
+
+}

@@ -1,0 +1,12 @@
+package ch.ethz.ivt.abmt.assignment1.ex1network;
+
+/**
+ * @author thibautd
+ */
+public class NetworkUtils {
+	private NetworkUtils() {}
+
+	public static Network createNetwork() {
+		return null;
+	}
+}
